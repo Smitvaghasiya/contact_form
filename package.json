@@ -1,7 +1,7 @@
 {
   "name": "contact_form",
   "version": "0.1.0",
-  "homepage": "https://Smitvaghasiya.github.io/Simple_React_App",
+  "homepage": "https://Smitvaghasiya.github.io/contact_form",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
